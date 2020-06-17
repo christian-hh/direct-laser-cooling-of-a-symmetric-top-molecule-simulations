@@ -3,7 +3,7 @@ This is a repository for the code associated with simulating optical Bloch equat
 
 Details of the simulation as well as references may be found in the main text.
 
-There are two types of files:
+There are two types of files in this repository:
 
 1. Mathematica notebooks to calculate force profiles. These have prefixes "ForceProfiles_CaOCH3_J12..." or "ForceProfiles_CaOCH3_J32..." for each ground state considered (J = 1/2 and J = 3/2). 
 2. Mathematica notebooks that incorporate the computed laser cooling force profiles into a simulation of the molecular beam trajectory in the experimental setup. These have prefixes "TrajectoryMonteCarlo_CaOCH3...".
