@@ -7,5 +7,3 @@ Details of the simulation and references can be found in the main text. There ar
 
 1. Mathematica notebooks (.nb files) to calculate force profiles. These have prefixes "ForceProfiles_J32toJ12_...".
 2. Mathematica notebooks (.nb files) that incorporate the computed laser cooling force profiles into a simulation of the molecular beam trajectory in the experimental setup. These have prefixes "TrajectoryMonteCarlo_...".
-
-Each file has a suffix to denote which of the subplots (A, B, or C) of Fig. S6 they are associated with, namely, "DetuningScan", "IntensityScan_Cooling", "IntensityScan_Heating", and "BFieldScan".
